@@ -1,0 +1,935 @@
+Optimizing organizational incentive structures discussion
+=========================================================
+Date: June 14, 2026
+Time: 6:28 PM – 7:19 PM CDT
+Location: 3471 Shore Dr, Chanhassen, MN 55331
+
+
+OVERVIEW
+--------
+Marley had a wide-ranging conversation with Chris about organizational incentives, financial markets, and a collaborative research project. They started by discussing how different roles and industries handle motivation—comparing sales and cost-cutting (easy to measure) with middle management and cross-functional teams (harder to align). Marley drew on his Tesla experience with stock-based compensation, while Chris brought in manufacturing and consulting perspectives. They debated whether competitive internal cultures help or hurt, and whether middle managers or horizontal cross-team coordination pose the bigger incentive challenge.
+
+They also went deep on financial markets—particularly the democratization of private assets and whether giving retail investors intraday liquidity in illiquid assets essentially turns them into liquidity providers for institutions. Marley compared current dynamics to Enron-era financial engineering and predicted regulatory response within four years. They discussed semiconductor ETFs (SMH up 4.7x over five years), SpaceX's private market dynamics, and a thought experiment about tokenizing everything including houses and loans.
+
+Throughout, they set up infrastructure for ongoing collaboration: a GitHub repo for research, a shared markdown file ("notesandstuff.md"), and plans to call back after dinner. Chris mentioned he's writing Substack articles on democratizing private assets and has been getting book recommendations from a veteran coworker with 30 years of operational experience.
+
+
+ATMOSPHERE
+----------
+Energetic, intellectually playful, and meandering—two curious friends bouncing between serious analytical debates and casual banter. Lots of interruptions, inside jokes, and mutual ribbing (Android/iPhone teasing, "shut up" exchanges, FaceTime logistics). Both are clearly excited about the project and enjoy stress-testing each other's arguments.
+
+
+KEY TAKEAWAYS
+-------------
+  - Marley and Chris are launching a collaborative research project on optimizing intra-organizational incentive structures, with initial focus on vertical hierarchy levels before tackling cross-team dynamics
+  - They created a GitHub repo with a markdown file called "notesandstuff.md" for shared notes and research
+  - Marley favors starting vertically (CEO to hourly employee) by industry/team type; Chris thinks horizontal cross-functional alignment is the harder problem
+  - Key framework emerging: individual contributor vs. manager, vertical vs. horizontal, and measuring leverage/amplification vs. direct output
+  - Chris is writing Substack articles on democratizing private assets; Marley agreed to read them
+  - They discussed how retail investors in "liquid" private asset products may effectively provide liquidity for institutional sellers rather than true ownership
+  - Marley noted SMH (semiconductor ETF) is up 4.7x over 5 years, outperforming other sectors
+  - Chris's GitHub username is Chris; Marley's profile picture is "scroll" across platforms
+  - Chris is recording conversations with an AI tool and plans to use it for classes; Marley is also recording
+  - They planned to reconnect after dinner to continue the discussion
+
+
+ACTION ITEMS
+------------
+  → Marley to read Chris's Substack articles on democratizing private assets
+  → Chris to share GitHub repo with Marley and set up cloud sync for collaborative work
+  → Both to populate "notesandstuff.md" with research and mental models on incentive structures
+  → Marley to follow up on call after dinner to continue the conversation
+  → Chris to share more about his veteran coworker's operational perspective and book recommendations
+
+
+TRANSCRIPT
+----------
+Unknown: Uh harder for sure.
+
+Unknown: And the harder, I mean, I think of the roles that people feel the best in terms of impact, it's so easy to feel your impact in those roles.
+
+Unknown: Right?Sales, cost cutting, like it is incredibly easy.
+
+Unknown: You're you it's at the end of the day, you just save money.
+
+Marley Barrett: Great.I've justified my role.
+
+Unknown: Yeah, it's so easy to be like, this is how I create value.
+
+Unknown: It's like so directly you can see the numbers.
+
+Unknown: But I mean, it's not like my team was incentivized financially for that.
+
+Unknown: They used to get paid.
+
+Unknown: Like we get paid the same whether we save ten million or twenty million.
+
+Unknown: Maybe we just get a I don't know, like a free meal.
+
+Unknown: If we hit twenty ten, like, you know what I mean?
+
+Marley Barrett: Yeah.Well, yeah, I mean the way Tesla does it is everyone just gets stuck.
+
+Marley Barrett: And obviously we all know that Tesla's stock is not a very good representation of our performance sometimes.
+
+Unknown: Or most of the time.
+
+Unknown: But also you lose like loose when you lose stock.
+
+Unknown: Oh, you lose a lot.
+
+Unknown: Well, like, think about what that's talking in camera.
+
+Unknown: Like, they talked about having the stock.
+
+Unknown: Like, that's an extreme, but, like, it's good to think about, like, they had, like, like, CNBC or whatever, like, stock live tracking, like, in the elevators at every single level.
+
+Unknown: Yeah.Like, it was open, and it was, like, everyone's background on their computer screens.
+
+Unknown: And as a consequence of that, you lose the ability to think long term.
+
+Unknown: Um, that's just the nature of how it is that you can't go around that.
+
+Unknown: Um, well, yeah, or at least at a lower level.
+
+Unknown: Like, I think no, even at the higher level, like, if you're the like everyone is thinking about the star price, then like, if you think about it like this isn't extreme about, like, the whole company is thinking about the stock price, you lose the ability to long-term strategy.
+
+Unknown: I think I, well, I can't say that executives are always thinking long term, but I think most are competent at thinking long-term.
+
+Unknown: Yeah, but if you're incentivizing them purely based on stock, you can see that the incentives don't back long-term thinking.
+
+Marley Barrett: No, because if I get right, you have a stock plan that's set up for you to get stock the next five years five years is a long time, you're therefore incentivized to increase the stock over the next five years.
+
+Unknown: Yeah, but like, if I retire in five years, like, there's a point in time where if I can exit before with like my pumping as much as I can and then selling my stock, then like screw the next guy, my stock up.
+
+Marley Barrett: Like, yeah, you're just gonna you're gonna just gonna cost cut for five years.
+
+Unknown: What?You're just gonna cost cut for five years.
+
+Unknown: Yeah.Which like you it's longer term strategy because I don't get an instant bonus every t two weeks or whatever, but you still don't a way to be motivated for like unless you're at like a startup, I guess, but like that you're not like I feel like it's we're on the topic of incentivations that developed and mature companies, right?
+
+Marley Barrett: That's kind of the incentive that starts to just give them give them equity and don't pay seriously.
+
+Marley Barrett: We know that we know that works, but yeah, it does, but but dude, that's a good point, though.
+
+Marley Barrett: Like, just like, not that we need to frame this off the base that it works in startups, they're kind of an anomaly, but like, it does work.
+
+Unknown: Like, well, it works, I think we would have direct ownership where you can clearly see how 40 hours a week directly ties towards your value and also the long-term value of the company, because they're directly related.
+
+Marley Barrett: We need to start creating parameters for what we need to take into account here.
+
+Marley Barrett: Of just all the different levels?
+
+Unknown: Yeah, it's like top level CEO and chairman, and bottom level is, like, hourly and employee.
+
+Unknown: And then we can think about you should be able to apply it across industry.
+
+Marley Barrett: Like, if you have, like, a supply chain or a ops, or if you have ops I'd rather start vertically.
+
+Unknown: Yeah, yeah, we could start vertically across team, 'cause I would argue that cross team is harder.
+
+Marley Barrett: Because if you have a vertical team, you can kind of just No, I'm just saying I'd start vertically with levels because it's simpler.
+
+Unknown: Okay.Worry about the cross-team stuff.
+
+Marley Barrett: But we could probably we could probably like label or like categorize in a bucket like types of industry teams.
+
+Unknown: No.I'm in my office.
+
+Marley Barrett: But I think we should start a I think we should start a GitHub repo so that we can run research and models on it, too.
+
+Unknown: Yeah, I won't.
+
+Unknown: I'm so excited.
+
+Unknown: Yeah, this will be interesting.
+
+Unknown: I gotta try to find out more of these.
+
+Unknown: I know.
+
+Unknown: I was having like a two-hour conversation about this with my coworker.
+
+Unknown: Yeah.It's like talking to you and you and Oshwin, but like he's been working for 30 years and like actually knows what he's talking about.
+
+Unknown: Shut up.
+
+Unknown: Shut up.
+
+Unknown: Come on, you know I'm right.
+
+Unknown: I always know what I'm talking about.
+
+Unknown: What should we call this?
+
+Unknown: I'm sorry, Mr. Timothy's oracle I was supposed to Yeah, I actually did.
+
+Unknown: That that the semiconductor one ends up with wait, no.
+
+Unknown: Does it end up I think it does end this somehow ends with ELMR?
+
+Unknown: Yeah, I'll have to tell you more about my co-worker because he's like the most like mean like his favorite Toyota Yeah, it's a really cool perspective to have because like I was telling him about VC and my experience and that's like new to him and it's really interesting to see like his perspective on value creation through like operational efficiency and optimization versus like capital leverage.
+
+Unknown: Yeah.And it's gonna it'll be a cool list of next one because I feel like it gives a lot of a lot of knowledge about that and it's a really cool perspective.
+
+Unknown: That's interesting.
+
+Unknown: There's giving me so many books to read.
+
+Unknown: It's crazy.
+
+Unknown: That's awesome.
+
+Unknown: What should we call this?
+
+Unknown: Um optimizing intraorganizational incentive structures.
+
+Unknown: A framework.
+
+Unknown: Shut up.
+
+Unknown: I'm sorry, is there something more descriptive you would like to use?
+
+Unknown: An essay.
+
+Unknown: A short novel.
+
+Unknown: Yeah.Okay, it's.
+
+Unknown: I'm creating this.
+
+Unknown: I'll share it with you.
+
+Unknown: I'm going to set up a we can work in Cloud with it and then we can set up like a quick like you can just sync to GitHub when you're ready once you're done working on stuff.
+
+Unknown: Like just push. Yeah. Yeah. Sorry, that was a big word for me.
+
+Unknown: I didn't know that.
+
+Unknown: It's like I've never seen it.
+
+Unknown: No, I think push is actually like the right word, so I was like, hold on, I was like, we said fancy ones.
+
+Unknown: What did you share with me?
+
+Unknown: I'm going to share the repo with you. Okay.
+
+Unknown: You got my ghetto?
+
+Unknown: Uh.Well, what is your GitHub?
+
+Unknown: I want to follow you.
+
+Unknown: Patrick Bunkley?
+
+Unknown: My name's Chris.
+
+Unknown: Users.Bro, what is this AI version of you?
+
+Marley Barrett: Scroll, that's literally the profile picture of all my stuff.
+
+Unknown: ISY Have you not seen my stuff stack profile picture?
+
+Unknown: Yeah, I have.
+
+Unknown: Jefferson County EMS dashboard.
+
+Unknown: Yeah, I have all my good stuff hidden, sorry.
+
+Unknown: Uh, do you backtest your Survivor Season fifty predicts?
+
+Unknown: Really?Yeah.
+
+Unknown: It's hard to predict.
+
+Unknown: I didn't well, I also didn't put much effort into it, so.
+
+Unknown: This is pretty cool.
+
+Marley Barrett: Um okay, let me share this with you.
+
+Unknown: Where did this go?
+
+Unknown: Where did this go?
+
+Unknown: Did you read my last subshock article?
+
+Unknown: I thought you followed me.
+
+Marley Barrett: Yeah, I haven't, dude, I accidentally like followed every single one of my contacts.
+
+Unknown: Oh no. Yeah, that's why I subscribe to me instead of just following me.
+
+Unknown: It's okay.
+
+Unknown: Oh, I didn't know you could do that.
+
+Unknown: No, I haven't read any of them yet.
+
+Unknown: I still need to read them.
+
+Unknown: You haven't read any of them?
+
+Unknown: No.Bam. Big ben. Dude.
+
+Unknown: They're all pretty good.
+
+Unknown: They're pretty quick reads.
+
+Unknown: They're like 10 minutes each, maybe.
+
+Unknown: Okay.Last one I put like a little more effort into than like the middle two.
+
+Unknown: I thought you didn't writing anymore.
+
+Unknown: No, I didn't like writing once a week.
+
+Unknown: That's, yeah, that's a lot.
+
+Unknown: Oh, my new, my new topic's kind of exciting.
+
+Unknown: I'm talking about democratizing private assets.
+
+Unknown: And how it's you don't like it or what?
+
+Unknown: I don't know.
+
+Unknown: I'm scared right about it as a general thing.
+
+Unknown: I'm still relearning about it.
+
+Unknown: There's lot there's a lot of stuff happening in that space right now.
+
+Unknown: I just started us with a blank website, so if we need to build a website, we can make it way easier.
+
+Unknown: Wait, did you share with me or I just sent you a link, I can email it to you.
+
+Unknown: Here, I'll email it to you.
+
+Unknown: I forget you're on Android.
+
+Unknown: I'm not on Android.
+
+Unknown: Basically.I'm an engineer with a Windows laptop, that's not accuracy.
+
+Unknown: You technically don't meet the specs for the College of Engineering laptops because what will I do?
+
+Unknown: Dude.What are they going to do?
+
+Unknown: Kick me out of school?
+
+Unknown: Yep.Yep.
+
+Unknown: I already submitted a complaint.
+
+Marley Barrett: Okay, what should we call our first like markdown file where we just write down our notes?
+
+Unknown: I was going to say something stupid, but nothing came to mind.
+
+Unknown: I clocked by my grooms the other day 'cause we were going to the park to grill and they're I like do you guys want to go here?
+
+Unknown: And they're like, oh it doesn't really matter.
+
+Unknown: Like, you decide, and I was like, oh, like, it doesn't matter.
+
+Marley Barrett: And they're like, oh, we just thought you were the most opinionated out of all of us.
+
+Unknown: Really?Yeah, that actually makes sense.
+
+Unknown: Okay, I'm calling it notesandstuff. md.
+
+Unknown: Okay, thanks.
+
+Unknown: Oh my goodness.
+
+Unknown: Pay you.
+
+Unknown: Why is there so much stuff already?
+
+Marley Barrett: Because it's just a basic website that I have.
+
+Unknown: Just a basic just a basic quad website.
+
+Unknown: It's not a basic.
+
+Unknown: Do I pull it right now or do I just wait?
+
+Unknown: I don't know.
+
+Unknown: I'm recording this conversation too, so I'm also going to upload this conversation.
+
+Unknown: We don't even have to take notes.
+
+Marley Barrett: I don't know what I'm saying.
+
+Unknown: I'm like, really, I'm literally on a couch with AI right now.
+
+Unknown: Somebody just let out.
+
+Marley Barrett: Dude, that's how I felt when I was working in manufacturing.
+
+Marley Barrett: Everything goes back like 45 years, and like someone like.
+
+Unknown: I'm watching people put like sandpaper on a stick and like scrub it with it.
+
+Unknown: That's what I'd like to see like um an AI video of like, I'm gonna make everyone unemploy I'm like, you don't know it.
+
+Unknown: You don't what the rest of the world looks like. Yeah. Top of line manufacturing company.
+
+Marley Barrett: People like clapping their hands and gluing stuff together.
+
+Unknown: Finally.Wait, are you saying you're recording this?
+
+Unknown: Yeah.Should I just FaceTime you?
+
+Unknown: Yeah, sure.
+
+Unknown: Well, I'm not like recording recording.
+
+Unknown: I'm just recording my.
+
+Unknown: I'm just recording audio here.
+
+Unknown: I'll show you what I've got.
+
+Unknown: So I've got this little B AI, it's called, and it just videos.
+
+Unknown: It just or it just records conversations for me.
+
+Unknown: That's kind of cool.
+
+Unknown: It's nice.
+
+Unknown: I'm going to use it in class, like, every day.
+
+Unknown: Are you having a freezy pot?
+
+Marley Barrett: Dude, what do I use for?
+
+Unknown: Okay, would you?
+
+Unknown: I've been going running and having these up here.
+
+Unknown: It's so good.
+
+Marley Barrett: Would you agree that the hardest people to incentivize are in the middle of an organization?
+
+Unknown: Depends what you mean by they're the hardest to align good incentives with.
+
+Unknown: No, it's it's very, very easy to get a vertical stag to be aligned, but the horizontal stack is very a lot harder.
+
+Unknown: Okay, so you think the horizontal is harder?
+
+Unknown: I I think people that work together who don't talk a lot and have very different priorities, it becomes an upper level management role to get people to work together, right?
+
+Unknown: So it's like, should I give an example?
+
+Unknown: Would that help, or do you understand what I'm saying?
+
+Unknown: No, I understand, I completely agree.
+
+Unknown: Um cross-functional teams uh kind of work together, kind of don't.
+
+Unknown: I think, okay, if we only focused on vertical, would you agree with middle?
+
+Unknown: On experiment, okay.
+
+Unknown: Um, okay, well, to change the question.
+
+Unknown: Generally, the least incentivized people are the people at the bottom.
+
+Unknown: Generally, they're seen as like the most.
+
+Unknown: Like least important, least intelligent, whatever, least experienced.
+
+Unknown: Yep, and kind of where yeah, okay, okay.
+
+Unknown: Um but like I'm trying to but right their output is directly is very measurable.
+
+Unknown: Like like let's just think about their level, like specifically like their individual outfoot output is probably pretty measurable.
+
+Unknown: Yeah, it's well when you're when you're not a manager of people, your role is easy because you have autonomy over your work, right?
+
+Unknown: Like, what you do is only yours often.
+
+Unknown: Maybe you work with some co-workers, but okay, usually not.
+
+Unknown: I think that brings up another if you work in like a kitchen or something of a massive company, like you can measure like how well my food is cooked if I'm on time, how well I prep, how clean my station is.
+
+Unknown: I think that I'm just adding some like mental models: seven layers of management, or well, vertical, horizontal, and then individual versus contributor versus manager or people, people, lead.
+
+Unknown: Now move up a level to that.
+
+Unknown: You also is fairly easy to incentivize because it's getting your people to work together to output as much as possible as a group.
+
+Unknown: How do you measure that?
+
+Unknown: Well, you think about it in terms of leverage, right?
+
+Unknown: So it's how much can you get your team to amplify, like, think about it as like a sales manager.
+
+Unknown: A good sales manager will amplify the performance of their employees.
+
+Unknown: So you'll create value by driving more value out of your employees.
+
+Unknown: And you can measure that. Okay.
+
+Unknown: You can incentivize it as a way as you get more money if your team produces this much more with this much less.
+
+Unknown: Right?And it's just holistically creating.
+
+Unknown: And to do that, you need to get your team to work together to identify their strengths and weaknesses, put them in the right places, and that's very easy to measure and incentivize because you can basically just slap on a similar bonus structure of your undergrad of your employees to that group to you.
+
+Unknown: I think about this in the manufacturing setting, or like a sales section, like, you know what I mean?
+
+Unknown: Yeah, I think, I guess that is what happens basically.
+
+Unknown: Um I guess now when you get a level above that, it gets harder because in the baseline scenario, you have a unified mission.
+
+Unknown: It's like a team and then like your pod leader.
+
+Unknown: But then when you add another layer of management, you start getting cross teams, something like that.
+
+Unknown: You know what I mean?
+
+Unknown: Yeah.Like maybe, maybe you are still working in the same space, but you're working on different product lines.
+
+Unknown: Like a big thing with us, like we're launching a new product, and it's challenging, so like that new product gets priority over the other one, but we still need to meet our production schedule for like the old one.
+
+Unknown: So who gets the priority?
+
+Unknown: How do we work together?
+
+Unknown: Because we have different employees.
+
+Unknown: We're like, we have shared employees, we have shared equipment, but we're still like resource-constrained.
+
+Unknown: So that's different pod managers with their own operator groups, but they have a shared manager.
+
+Unknown: And in that manager position, it becomes challenging because I have to incentivize those teams to optimally share resources together while having different goals.
+
+Unknown: Now, to do that, you need to make sure that they have identical goals while working on different things.
+
+Unknown: Or they need to at least have an added goal in addition to no, now their goal has to be: how can I restructure or build an organization that has shared resources that are used optimally without competing interests?
+
+Unknown: Okay, think about it if you step down a tier from that manager.
+
+Unknown: Those two, or you can do it at any level, if these two people are incentivized to do two different things, they're going to both do it to the best of their degree.
+
+Unknown: And then you have basic game theory here, which tells me that both of these people will both use resources unoptimally in order to make sure that they create the most optimal result.
+
+Unknown: Otherwise, if they are willing to share and the other team, you're familiar with this.
+
+Unknown: So, yep, I agree.
+
+Marley Barrett: So, you have to remove game theory from organizations at the incentive structure, which means that you can p competitiveness internally is a big driver for organizations Okay, then we're then we could use a thought example of comparing like consulting structure to big tech culture, maybe at like Google.
+
+Unknown: Yeah, I don't, I'm assuming Google isn't competitive, maybe like Meta is, but like, yeah, Meta's super competitive.
+
+Unknown: Well, or what about this in terms of game theory?
+
+Unknown: Who cares?
+
+Unknown: You guys both build two different products, one of them's way better in the end because of the other one.
+
+Unknown: Great.Oh, yeah, I'm a little bit biased because I don't like the consulting culture because that's just not a culture that I want to work in.
+
+Unknown: But that's not to say that it doesn't drive the results that you want.
+
+Unknown: It's just not preferred for me.
+
+Unknown: Well, and I don't think it's preferred for manufacturing in this sense.
+
+Marley Barrett: But it's a good thing to talk about because We have to yeah, we have to take into account the industries here.
+
+Unknown: Industry norms are in industries that are tied to more of a service or financial asset.
+
+Unknown: Or financial service, I guess.
+
+Unknown: Like, I'm thinking, like, banking.
+
+Unknown: Or innovation.
+
+Unknown: Law.No, but in the innovation and tech, it's very like it depends on the culture of your company.
+
+Marley Barrett: Do we just want to focus on manufacturing so that we don't to, like Maybe we can use lessons learned from other industries?
+
+Marley Barrett: Yeah.And comparisons so that we can qu seemingly like say, Okay, you may say, you know, like the like the straw man would say, like, this is the big tech way, but it doesn't fit here.
+
+Unknown: Yeah, what is the benefit of having a competitive culture in consulting?
+
+Unknown: I guess the biggest one I think of is management and consulting.
+
+Marley Barrett: I wouldn't say there is in management and consulting.
+
+Unknown: I think it's more in tech, to be honest.
+
+Unknown: Consulting?No, just tech.
+
+Unknown: Well, I thought, like, if people talk about, like, Accenture, you have to, like, you have to apply to be on projects.
+
+Unknown: Yeah.Like, that's a great tip.
+
+Unknown: That's what I'm kinda trying to talk about.
+
+Marley Barrett: Yeah, so I I was more thinking like, um even at Tesla, like, it's just whoever wins, like, the internal product is just whoever gets the most users, basically.
+
+Marley Barrett: Like, we just build internal products until they win.
+
+Unknown: So you're not facing another team directly, right, once you're on a project at a center.
+
+Unknown: But yeah, you're right in that the competition.
+
+Marley Barrett: But, okay, but let's talk about that because competing for a job, or you're right, one of those one of those teams at Accenture is not net negative, arguably.
+
+Unknown: Maybe it is a little bit on the time side, but in terms of like, it's not actually hurting the output of the work being done.
+
+Unknown: Unlike.I think the biggest drawdown for me is I feel like it increases churn when I think about manufacturing companies and one of their biggest weaknesses is their ability to attract and maintain incompetent people.
+
+Unknown: My dad had a good quote where it's like: if you're like the most mediocre and average person at your job, you could be here for 30 years and retire.
+
+Unknown: And if you say a bad joke to like an executive, you could be gone by the afternoon.
+
+Unknown: Like, there's truth to that here, where if you're just an average employee or an average engineer, a Tesla or any other place, like, there's a pretty good chance you're for the rest of your career.
+
+Unknown: As long as you just don't make a massive fuck-up in life, you know what I mean?
+
+Unknown: Like, yeah.
+
+Unknown: And that's another thing that starts because you have to attract and maintain exceptional people, otherwise you fire them.
+
+Unknown: Because now something that is in the corporate manufacturing culture, maybe that's something that you're getting an advantage of at an accenture or something like that, where you are forced to be exceptional or put in a work to actually do work.
+
+Unknown: Yeah, but in manufact, or at least with operators, I feel like you can't do that in manufacturing.
+
+Unknown: Well, let's talk about the engineers.
+
+Unknown: Because that's even engineers.
+
+Unknown: Like, I feel like engineers, right?
+
+Marley Barrett: They're two years in and they have so much knowledge, and like the engine, the engineering manager is like, oh my gosh, this guy just, like, knows so much.
+
+Marley Barrett: Like, yeah, he kind of glows now, and he's kind of an idiot, but you know, he knows how to fix the machines.
+
+Unknown: Yeah, that is a problem with engineering.
+
+Unknown: It's like, like, I spend more time on the floor than on my computer because it's just like. ..
+
+Unknown: You just learn more by talking to people than you could ever find in any sort of documents or anything like that.
+
+Unknown: Yeah, in the knowledge bases.
+
+Unknown: Yeah.That's like a side conversation.
+
+Unknown: It is a side, yeah.
+
+Unknown: I'm just gonna be hard, right?
+
+Unknown: This is where we're really wide right now.
+
+Unknown: No more later.
+
+Marley Barrett: Sufficient.Dude, this face acts is literally.
+
+Unknown: That was the perfect time to use that.
+
+Marley Barrett: Tommy, you have no idea what you're talking about.
+
+Unknown: That is crazy though.
+
+Unknown: Yeah.I think we're getting dumped.
+
+Unknown: I think retail investors are getting dumped for their liquidity.
+
+Unknown: For sure!
+
+Unknown: Dude, for sure!
+
+Unknown: It's gotta.
+
+Marley Barrett: I mean, otherwise, the bubble, dude, this feels like an Eneron.
+
+Unknown: This literally feels like an Enron.
+
+Marley Barrett: This is financial engineering, and there's gonna be a law that comes out in four years because of this situation.
+
+Marley Barrett: This is there is financial engineering going on.
+
+Unknown: I don't know if there's financial engineering or it's just like I don't know.
+
+Marley Barrett: Everyone before Sarbanes Oxley was like, well, yeah, I mean, they do their accounting a different way, but you know, I mean, we we still think it's valued well.
+
+Marley Barrett: And then Sarbanes-Oxley came out, and everyone was like, oh shit, yeah, exactly.
+
+Unknown: And it was someone talking about assets in the 2000. com bubble, and they asked a question about Cisco, and they were like at what and they're bullish, and they asked the the bulls, they said, what price point would you sell your Cisco stock at?
+
+Unknown: And like, in a traditional market, you'd say, like, oh, like, if it goes up, like, a hundred percent or something and sell it or something like that.
+
+Unknown: But the response was, like, if the asset goes down 25%, then I would sell.
+
+Unknown: And it's like the change of perspective of like we're not seeing in the market anymore like value in terms of like traditional like enterprise value.
+
+Unknown: It's kind of just like: if there's a lot of fear, I'm gonna cut my losses.
+
+Unknown: Which I thought that was really interesting, was thinking about like how people perceive value and willingness to sell.
+
+Unknown: Does that kind of make sense?
+
+Unknown: No, I I how does that relate to this situation here?
+
+Unknown: No, this is just this basics thing.
+
+Unknown: It is a SpaceX thing?
+
+Unknown: SpaceX, like, override like people are people think about their selling points as a certain stop loss.
+
+Unknown: Yes, okay, I agree.
+
+Marley Barrett: Yeah.It's not like i if it goes twenty percent up, someone people are gonna cash out.
+
+Unknown: They're gonna say to the moon. Yeah.
+
+Unknown: For retail, retail.
+
+Unknown: But that's also general consensus across the market right now.
+
+Unknown: So I don't know, people are I think we'll still have more of a market run, but like we had a big sell-off last weekend and early this week, but people are like generally that's just a little shake-off after like a seven-week run in semiconductors.
+
+Marley Barrett: But yeah, dude, SMH is like the top-performing ETF of the past five years.
+
+Marley Barrett: 4.7x, baby, 4. 7x in the past five years.
+
+Unknown: But the thing is, like, the money's there.
+
+Unknown: It's not like it's.
+
+Unknown: Oh, yeah, no, I like, I agree with that.
+
+Unknown: The gains are there.
+
+Marley Barrett: The chip makers are blowing up.
+
+Unknown: Yeah, it is finding.
+
+Marley Barrett: It was at least two years ago financials-based driven.
+
+Unknown: Yeah, I just really like it.
+
+Unknown: The market, like, the private market just stinks so much.
+
+Unknown: Like, I'm reading a lot about it, and, like, the talk is about, like, democratizing private assets in terms of offering them to the public in an accessible way, which is interesting because it actually does have two lenses, right?
+
+Unknown: When think about owning a private asset, since I have a venture capital experience of venture capital experience, it's like, I'll put my asset into this startup and I'll get it back in 10 or 15 years.
+
+Unknown: Maybe just inherit to me of what it means to own it.
+
+Unknown: But what they're trying to push is that ownership and also like intraday liquidity which is basically two separate things.
+
+Unknown: Yeah.And the consequence of that is that retail investors are just put in the secondary markets of private assets, which is basically not owning the private asset and just being a liquidity offering to institutional investors when they want to sell.
+
+Unknown: Like it's true.
+
+Marley Barrett: Yeah, I can see how this gets. Yeah.
+
+Unknown: You can't democratize like you can't democratize private assets and also make them liquid.
+
+Unknown: Like, is it just a different asset?
+
+Unknown: It's stupid to tell people that you're buying private equity or private credit or ventured capital that's intraday liquid when it's a representation of the asset class, which with other leveraged and offset options of other assets.
+
+Unknown: I don't know.
+
+Unknown: Wait, no, but isn't it what it would be a true representation?
+
+Unknown: How would it not be?
+
+Unknown: You can't have true representation of an illiquid asset that has like mark-to-market accounting when you can trade it whenever you want, but defeats the whole purpose.
+
+Marley Barrett: Okay, it would be mark-to-market.
+
+Unknown: Like, think about this you wanna you wanna buy ownership of a startup company like Anthropic like three years ago. Yeah.
+
+Unknown: And you wanna buy it as a retail investor.
+
+Unknown: And let's just say you can do that because you're an angel.
+
+Unknown: And if you're an angel, you can put your money in, but and you can do that.
+
+Unknown: But what you can't do is the next day say, I want what it's worth now back, because there's no one there to offer you the money.
+
+Unknown: Because that's the startup's money.
+
+Unknown: Right?There's no one to trade with you. Yeah.
+
+Unknown: Well, remember how you get money in private assets is through like private acquisition or IPOs or next fundraising rounds.
+
+Unknown: Or, yeah, selling assets, yeah.
+
+Marley Barrett: Yeah, like that's how you make your money back as a private investor in part of their democratizing also having the um an amount of open shares on the market that are always available?
+
+Unknown: Remember, you can do that, you can have a like a float of cash to temporary liquidity, yeah, but then as soon as you do that, you're reducing the amount of alpha you can create because you just have a pool of cash sitting on the side.
+
+Unknown: Oh, and the private fund would have to front that cash because remember, as soon as when you actually need the liquidity, when there's a massive sell-off, that fund just runs dry, anyways.
+
+Unknown: Yeah, that's concern.
+
+Unknown: That's like a bank run.
+
+Unknown: Yeah, and like that goes back to like these assets are inherently illiquid, and you shouldn't be able to do sell-offs like that.
+
+Unknown: Like you can, you can manufact financially manufacture ways to induce liquidity by creating a publicly traded entity that owns private assets or whatever they're actually a liquid, but then you're a second derivative away from the actual asset movement.
+
+Unknown: It's like owning an ETF of a futures-traded commodity, right?
+
+Unknown: Like, you're owning a representation of it, but you don't actually have access to the real price movement.
+
+Unknown: You're delayed, you're averaged out by this week's options and next year's options, right?
+
+Unknown: I don't understand that part.
+
+Unknown: How are you?
+
+Unknown: Think about if you wanted to buy corn.
+
+Unknown: You can buy an ETF of corn, but it's just a blend of options or a blend of futures around corn that is maybe one month out or three months out.
+
+Unknown: So you own it, but you don't own, you also can't own like the leveraged aspect of it.
+
+Unknown: You don't get contract prices.
+
+Marley Barrett: Do you want to own the leveraged asset aspect?
+
+Unknown: Well, like, well, like, you can leverage the ETF, right?
+
+Marley Barrett: The ETF would follow the true price of corn.
+
+Unknown: It doesn't, though.
+
+Unknown: It the futures train, the futures are the most optimal tracking of price because it is most accurate at the spot price.
+
+Unknown: Like, your ETF will follow up because it's a blend, but if you get a 30-day spike in one day, remember you're averaging that out. Yeah.
+
+Unknown: Yes, you're what. Yeah.
+
+Unknown: So you lose the volatility that you actually would want.
+
+Unknown: Now it's kind of the opposite of that for private assets.
+
+Unknown: But like, I don't know.
+
+Unknown: Like, the benefit of private assets is that they are smooth, right?
+
+Unknown: I don't know.
+
+Unknown: Another good thing that I've been reading recently is that, like, illiquidity premiums are false, and that true excess returns are just driven where there's just not enough capital, which makes a lot more sense.
+
+Unknown: Like, just because an asset can't be traded a lot doesn't mean it's like worth more, outperformed more.
+
+Unknown: Like, it's kind of true, but like, you just make more money when there's not a lot of competition.
+
+Marley Barrett: In private markets?
+
+Unknown: Yeah, just generally.
+
+Unknown: Like, think about private equity probably had a lot more outsized return 20 years ago when there wasn't trillions of dollars.
+
+Unknown: Oh, I see.
+
+Unknown: That's what I was saying.
+
+Marley Barrett: I'm a little, little lost in your Okay, sorry, that was my grandma.
+
+Unknown: I'm sorry.
+
+Unknown: I was talking to Clyde's.
+
+Unknown: Does that make sense though?
+
+Unknown: That's why I'm just confused.
+
+Marley Barrett: Yeah, I remember you sent me a text on this, and I was trying to think through it.
+
+Marley Barrett: It's just like, in theory, it just doesn't seem much different than public markets as long as someone fronts the float of open available shares.
+
+Unknown: If you do that, um, I mean, like, this kind of like I wanted to kind of write about a thought experiment that I think would make this more interesting and helpful of, like, saying, like, what if everything was a publicly traded liquid asset?
+
+Unknown: This is kind of the argument of tokenization, right?
+
+Unknown: To a certain extent.
+
+Unknown: It's like, what.
+
+Unknown: Like, what does your house look like if you've been traded on a day-to-day basis?
+
+Unknown: Like, is that something that you would want liquidity in?
+
+Marley Barrett: Like?Yeah, in theory.
+
+Marley Barrett: Like, I don't see its downside to having liquidity in housing markets.
+
+Marley Barrett: That's like an efficient market theory.
+
+Unknown: Like, think about if your mortgage is due tomorrow, and, like, and think about, like, your if your mortgage is, like, publicly tradable, and, like, it goes up 30%, like, the day before your rent's due.
+
+Marley Barrett: Well, obviously, that not well, and by saying it goes down, but like, you know what I'm saying?
+
+Marley Barrett: No, okay, but value is different than having a loan.
+
+Marley Barrett: Like, I'll just have a loan on this on this exchangeable, on this exchangeable house that I have.
+
+Marley Barrett: I'm taking a loan out on a logical loan is publicly tradable.
+
+Marley Barrett: What if your loan is a let's not do that?
+
+Unknown: But this is like the thought experiment.
+
+Unknown: No, I like this.
+
+Unknown: I've thought about this before, too.
+
+Marley Barrett: Like, I've thought about how players' stocks go up and down, and how products like individual products' stocks go up and down.
+
+Unknown: Oh, my god, oh, my.
+
+Unknown: That should be the essay.
+
+Unknown: Think about it, like, if you're a startup, like, you don't want public liquidity in your startup, you want time to be able to build at a sustainable pace where you can control the information that's coming at you and present it in the way you want it.
+
+Marley Barrett: What if everything had the choice of being publicly tradable?
+
+Unknown: Um, because I can't publicly trade my house?
+
+Unknown: Right?You have a liquidity shortage.
+
+Marley Barrett: We need to have a global front of cash that's always available for trading of all items in the world.
+
+Unknown: Private assets in a way that's tradable, like you do in like auto loans or mortgage loans, right?
+
+Unknown: Um, just hard assets.
+
+Unknown: Oh, it's time to eat.
+
+Unknown: My mom's yelling.
+
+Unknown: Okay.I'm sorry.
+
+Marley Barrett: We should get back to actual topic.
+
+Unknown: I'm coming, I'm coming, I'm coming.
+
+Unknown: I'll call you after dinner.
+
+Unknown: Yeah, I'll call you.
+
+Unknown: I'll read your article.
+
+Marley Barrett: Okay.I haven't read it in so long. Okay.
+
+Unknown: Just done.
+
+Unknown: Sounds good. Yeah.
+
+Unknown: I'm going to stop our recording.
+
+Unknown: Okay, thanks.
